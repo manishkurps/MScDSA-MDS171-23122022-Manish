@@ -13,4 +13,4 @@ Email : manish.kumar@msds.christuniversity.in
 |Lab03|The Tale of Numbers' Harmony |["Lab03](Lab03.ipynb) 
 |Lab04|A Taste of Success: The Restaurant Management System |["Lab04](Lab04.ipynb)
 |Lab05|Mix & Match Calculator |["Lab05](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/tree/main/Lab%2005)
-|Lab06|Vowel Counter! |["Lab06](Lab06.ipynb)
+|Lab06|Vowel Counter! |["Lab06](Lab 06.ipynb)
