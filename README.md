@@ -15,3 +15,4 @@ Email : manish.kumar@msds.christuniversity.in
 |Lab05|Mix & Match Calculator |["Lab05](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/tree/main/Lab%2005)
 |Lab06|Vowel Counter! |["Lab06](Lab06.ipynb)
 |Lab07|My Menu Driven Restaurant |["Lab07](Lab07.ipynb)
+|Lab08|Matrix Multiplication |["Lab08](Lab08.ipynb)
