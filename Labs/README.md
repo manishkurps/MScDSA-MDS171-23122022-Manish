@@ -16,5 +16,6 @@ Email : manish.kumar@msds.christuniversity.in
 |Lab06|Vowel Counter! |["Lab06](Lab06.ipynb)
 |Lab07|My Menu Driven Restaurant |["Lab07](Lab07.ipynb)
 |Lab08|Matrix Multiplication |["Lab08](Lab08.ipynb)
-|CAC01|E-Commerce analysis |["CAC01](Ecommerce_sales_analysis.ipynb)
 |Lab09|Expense Tracker |["Lab09](Lab09.py)
+|CAC01|E-Commerce analysis |["CAC01](Ecommerce_sales_analysis.ipynb)
+|CAC02|EDA in Effect of Attendance on Academics |["CAC02](CAC_02.ipynb)
