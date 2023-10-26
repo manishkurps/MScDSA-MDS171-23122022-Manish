@@ -16,6 +16,8 @@ Email : manish.kumar@msds.christuniversity.in
 |Lab06|Vowel Counter! |["Lab06](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/Labs/Lab06.ipynb)
 |Lab07|My Menu Driven Restaurant |["Lab07](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/Labs/Lab07.ipynb)
 |Lab08|Matrix Multiplication |["Lab08](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/Labs/Lab08.ipynb)
-|CAC01|E-Commerce analysis |["CAC01](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/CAC1/Ecommerce_sales_analysis.ipynb)
 |Lab09|Expense Tracker |["Lab09](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/Labs/Lab%2009/Lab09.py)
+|Lab10|Student marks details |["Lab10](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/Labs/Lab10.ipynb)
+|CAC01|E-Commerce analysis |["CAC01](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/CAC1/Ecommerce_sales_analysis.ipynb)
 |CAC02|EDA in Effect of Attendance on Academics |["CAC02](https://github.com/manishkurps/MScDSA-MDS171-23122022-Manish/blob/main/CAC2/CAC_02.ipynb)
+
